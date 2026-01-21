@@ -1,0 +1,186 @@
+[
+  {
+    "label": "Apache NiFi",
+    "summary": "Mature ETL workflow system based on FBP.",
+    "links": [
+      "https://github.com/apache/nifi",
+      "https://nifi.apache.org"
+    ],
+    "authors": [
+      "https://github.com/apache",
+      "https://github.com/nationalsecurityagency"
+    ],
+    "language": "Java",
+    "license": "Apache-2.0",
+    "updated": 2026
+  },
+  {
+    "label": "Async-Flow",
+    "summary": "Async FBP core abstractions for Tokio.",
+    "links": [
+      "https://github.com/artob/async-flow",
+      "https://crates.io/crates/async-flow",
+      "https://docs.rs/async-flow",
+      "https://async-flow.rs"
+    ],
+    "authors": [
+      "https://github.com/artob"
+    ],
+    "language": "Rust",
+    "license": "Unlicense",
+    "updated": 2026
+  },
+  {
+    "label": "CppFBP",
+    "summary": "Classic FBP implementation for C++.",
+    "links": [
+      "https://github.com/jpaulm/cppfbp"
+    ],
+    "authors": [
+      "https://github.com/jpaulm"
+    ],
+    "language": "C, C++",
+    "license": "Artistic-2.0",
+    "updated": 2021
+  },
+  {
+    "label": "CsharpFBP",
+    "summary": "Classic FBP implementation for C#.",
+    "links": [
+      "https://github.com/jpaulm/csharpfbp"
+    ],
+    "authors": [
+      "https://github.com/jpaulm"
+    ],
+    "language": "C#",
+    "license": "Artistic-2.0",
+    "updated": 2021
+  },
+  {
+    "label": "Flowex",
+    "summary": "FBP/ROP frameworkbased on GenStage.",
+    "links": [
+      "https://github.com/antonmi/flowex",
+      "https://hex.pm/packages/flowex",
+      "https://hexdocs.pm/flowex"
+    ],
+    "authors": [
+      "https://github.com/antonmi"
+    ],
+    "language": "Elixir",
+    "license": "Apache-2.0",
+    "updated": 2021
+  },
+  {
+    "label": "Flows.rs",
+    "summary": "Reusable FBP building blocks for Tokio.",
+    "links": [
+      "https://github.com/artob/flows.rs",
+      "https://crates.io/crates/flows",
+      "https://docs.rs/flows",
+      "https://flows.rs"
+    ],
+    "authors": [
+      "https://github.com/artob"
+    ],
+    "language": "Rust",
+    "license": "Unlicense",
+    "updated": 2026
+  },
+  {
+    "label": "GoFBP",
+    "summary": "Classic FBP implementation for Go.",
+    "links": [
+      "https://github.com/jpaulm/gofbp"
+    ],
+    "authors": [
+      "https://github.com/jpaulm"
+    ],
+    "language": "Go",
+    "license": null,
+    "updated": 2022
+  },
+  {
+    "label": "JavaFBP",
+    "summary": "Classic FBP implementation for Java.",
+    "links": [
+      "https://github.com/jpaulm/javafbp"
+    ],
+    "authors": [
+      "https://github.com/jpaulm"
+    ],
+    "language": "Java",
+    "license": "LGPL-3.0-only",
+    "updated": 2022
+  },
+  {
+    "label": "JSFBP",
+    "summary": "Classic FBP implementation for JavaScript.",
+    "links": [
+      "https://github.com/jpaulm/jsfbp"
+    ],
+    "authors": [
+      "https://github.com/jpaulm"
+    ],
+    "language": "JavaScript",
+    "license": "MIT",
+    "updated": 2021
+  },
+  {
+    "label": "Node-RED",
+    "summary": "Popular low-code IDE for event-driven apps.",
+    "links": [
+      "https://github.com/node-red/node-red",
+      "https://nodered.org"
+    ],
+    "authors": [
+      "https://github.com/knolleary"
+    ],
+    "language": "JavaScript",
+    "license": "Apache-2.0",
+    "updated": 2026
+  },
+  {
+    "label": "NoFlo",
+    "summary": "Popular FBP-inspired runtime for Node.js.",
+    "links": [
+      "https://github.com/noflo/noflo",
+      "https://noflojs.org"
+    ],
+    "authors": [
+      "https://github.com/bergie"
+    ],
+    "language": "JavaScript",
+    "license": "MIT",
+    "updated": 2024
+  },
+  {
+    "label": "Protoflow",
+    "summary": "Thread-based FBP using Protocol Buffers.",
+    "links": [
+      "https://github.com/asimov-platform/protoflow",
+      "https://crates.io/crates/protoflow",
+      "https://docs.rs/protoflow"
+    ],
+    "authors": [
+      "https://github.com/artob"
+    ],
+    "language": "Rust",
+    "license": "Unlicense",
+    "updated": 2025
+  },
+  {
+    "label": "SciPipe",
+    "summary": "Mature scientific workflow library for Go.",
+    "links": [
+      "https://github.com/scipipe/scipipe",
+      "https://scipipe.org"
+    ],
+    "authors": [
+      "https://github.com/samuell"
+    ],
+    "language": "Go",
+    "license": "MIT",
+    "updated": 2024
+  }
+]

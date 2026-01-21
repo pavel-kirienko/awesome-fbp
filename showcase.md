@@ -1,7 +1,3 @@
-# Awesome Flow-Based Programming (FBP)
-
-## Showcase
-
 | Project | Summary | Author | Language | License | Updated | Links |
 | :------ | :------ | :----- | :------- | :------ | :------ | :---- |
 | [Apache NiFi](https://github.com/apache/nifi) | Mature ETL workflow system based on FBP. | [@apache](https://github.com/apache) | Java | Apache | 2026 | [:octocat:](https://github.com/apache/nifi) [:house:](https://nifi.apache.org) |
@@ -17,11 +13,3 @@
 | [NoFlo](https://github.com/noflo/noflo) | Popular FBP-inspired runtime for Node.js. | [@bergie](https://github.com/bergie) | JavaScript | MIT | 2024 | [:octocat:](https://github.com/noflo/noflo) [:house:](https://noflojs.org) |
 | [Protoflow](https://github.com/asimov-platform/protoflow) | Thread-based FBP using Protocol Buffers. | [@artob](https://github.com/artob) | Rust | Unlicense | 2025 | [:octocat:](https://github.com/asimov-platform/protoflow) [📦](https://crates.io/crates/protoflow) [:book:](https://docs.rs/protoflow) |
 | [SciPipe](https://github.com/scipipe/scipipe) | Mature scientific workflow library for Go. | [@samuell](https://github.com/samuell) | Go | MIT | 2024 | [:octocat:](https://github.com/scipipe/scipipe) [:house:](https://scipipe.org) |
-
----
-
-[![Share on X](https://img.shields.io/badge/share%20on-x-03A9F4?logo=x)](https://x.com/intent/post?url=https://github.com/artob/awesome-fbp&text=Awesome%20Flow-Based%20Programming%20%28FBP%29)
-[![Share on Reddit](https://img.shields.io/badge/share%20on-reddit-red?logo=reddit)](https://reddit.com/submit?url=https://github.com/artob/awesome-fbp&title=Awesome%20Flow-Based%20Programming%20%28FBP%29)
-[![Share on Hacker News](https://img.shields.io/badge/share%20on-hn-orange?logo=ycombinator)](https://news.ycombinator.com/submitlink?u=https://github.com/artob/awesome-fbp&t=Awesome%20Flow-Based%20Programming%20%28FBP%29)
-[![Share on Facebook](https://img.shields.io/badge/share%20on-fb-1976D2?logo=facebook)](https://www.facebook.com/sharer/sharer.php?u=https://github.com/artob/awesome-fbp)
-[![Share on LinkedIn](https://img.shields.io/badge/share%20on-linkedin-3949AB?logo=linkedin)](https://www.linkedin.com/sharing/share-offsite/?url=https://github.com/artob/awesome-fbp)
