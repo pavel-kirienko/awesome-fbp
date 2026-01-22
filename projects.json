@@ -58,7 +58,7 @@
   },
   {
     "label": "Flowex",
-    "summary": "FBP/ROP frameworkbased on GenStage.",
+    "summary": "FBP/ROP framework based on GenStage.",
     "links": [
       "https://github.com/antonmi/flowex",
       "https://hex.pm/packages/flowex",
