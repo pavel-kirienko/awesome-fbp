@@ -1,6 +1,6 @@
 ---
 label: CppFBP
-summary: Classic FBP implementation for C++.
+summary: Classical FBP implementation for C++.
 links:
   - https://github.com/jpaulm/cppfbp
 authors:

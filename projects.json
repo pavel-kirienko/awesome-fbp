@@ -32,7 +32,7 @@
   },
   {
     "label": "CppFBP",
-    "summary": "Classic FBP implementation for C++.",
+    "summary": "Classical FBP implementation for C++.",
     "links": [
       "https://github.com/jpaulm/cppfbp"
     ],
@@ -45,7 +45,7 @@
   },
   {
     "label": "CsharpFBP",
-    "summary": "Classic FBP implementation for C#.",
+    "summary": "Classical FBP implementation for C#.",
     "links": [
       "https://github.com/jpaulm/csharpfbp"
     ],
@@ -89,7 +89,7 @@
   },
   {
     "label": "GoFBP",
-    "summary": "Classic FBP implementation for Go.",
+    "summary": "Classical FBP implementation for Go.",
     "links": [
       "https://github.com/jpaulm/gofbp"
     ],
@@ -102,7 +102,7 @@
   },
   {
     "label": "JavaFBP",
-    "summary": "Classic FBP implementation for Java.",
+    "summary": "Classical FBP implementation for Java.",
     "links": [
       "https://github.com/jpaulm/javafbp"
     ],
@@ -115,7 +115,7 @@
   },
   {
     "label": "JSFBP",
-    "summary": "Classic FBP implementation for JavaScript.",
+    "summary": "Classical FBP implementation for JavaScript.",
     "links": [
       "https://github.com/jpaulm/jsfbp"
     ],

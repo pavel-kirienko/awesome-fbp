@@ -1,6 +1,6 @@
 ---
 label: GoFBP
-summary: Classic FBP implementation for Go.
+summary: Classical FBP implementation for Go.
 links:
   - https://github.com/jpaulm/gofbp
 authors:
