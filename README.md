@@ -1,6 +1,18 @@
 # Awesome Flow-Based Programming (FBP)
 
-This is a community knowledge base for flow-based programming (FBP).
+This is a community knowledge base for [flow-based programming (FBP)](https://grokipedia.com/page/Flow-based_programming).
+
+![The flow-based programming paradigm](./paradigm.png)
+
+<br/>
+
+<sub>
+
+[[Showcase](#showcase)] |
+[[Reference](#reference)] |
+[[Community](#community)]
+
+</sub>
 
 ## Showcase
 
@@ -33,7 +45,7 @@ This is a cross-reference between FBP implementations.
 | Component [^2]          | Processor       | Block        | Component  | Node          |
 | Process [^3]            | Processor       | Process      | Process    | Node          |
 | Connection [^4]         | Connection      | Connection   | Connection | Wire          |
-| Port                    | Port            | Port         | Port       | Port          |
+| Port                    | Relationship    | Port         | Port       | Port          |
 | Information Packet (IP) | Flow File       | Message      | IP         | Message       |
 | Initial Information Packet (IIP) | -      | Variable     | IIP        | Config Node   |
 | Scheduler               | Flow Controller | Scheduler    | Runtime    | Runtime       |
@@ -66,7 +78,7 @@ This is a cross-reference between FBP implementations.
 [![Share on LinkedIn](https://img.shields.io/badge/share%20on-linkedin-3949AB?logo=linkedin)](https://www.linkedin.com/sharing/share-offsite/?url=https://github.com/artob/awesome-fbp)
 
 [Classical FBP]: https://jpaulm.github.io/fbp/
-[Apache NiFi]: https://nifi.apache.org/docs/nifi-docs/html/overview.html
+[Apache NiFi]: https://nifi.apache.org/docs/nifi-docs/html/user-guide.html#terminology
 [Async-Flow]: https://github.com/artob/async-flow#glossary
 [NoFlo]: https://noflojs.org/documentation/glossary/
 [Node-RED]: https://nodered.org/docs/user-guide/concepts
