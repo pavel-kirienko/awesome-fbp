@@ -38,17 +38,17 @@ This is a cross-reference between FBP implementations.
 
 ### Glossary
 
-| [Classical FBP]         | [Apache NiFi]   | [Async-Flow] | [NoFlo]    | [Node-RED]    |
-| :---------------------- | :-------------- | :----------- | :--------- | :------------ |
-| Network                 | Flow            | System       | Graph      | Flow          |
-| Subnet [^1]             | Process Group   | Subsystem    | Subgraph   | Subflow       |
-| Component [^2]          | Processor       | Block        | Component  | Node          |
-| Process [^3]            | Processor       | Process      | Process    | Node          |
-| Connection [^4]         | Connection      | Connection   | Connection | Wire          |
-| Port                    | Relationship    | Port         | Port       | Port          |
-| Information Packet (IP) | Flow File       | Message      | IP         | Message       |
-| Initial Information Packet (IIP) | -      | Variable     | IIP        | Config Node   |
-| Scheduler               | Flow Controller | Scheduler    | Runtime    | Runtime       |
+| [Classical FBP]         | [Flux Theory] | [Apache NiFi]   | [NoFlo]    | [Node-RED]    |
+| :---------------------- | :------------ | :-------------- | :--------- | :------------ |
+| Network                 | System        | Flow            | Graph      | Flow          |
+| Subnet [^1]             | Subsystem     | Process Group   | Subgraph   | Subflow       |
+| Component [^2]          | Block         | Processor       | Component  | Node          |
+| Process [^3]            | Process       | Processor       | Process    | Node          |
+| Connection [^4]         | Connection    | Connection      | Connection | Wire          |
+| Port                    | Port          | Relationship    | Port       | Port          |
+| Information Packet (IP) | Message       | Flow File       | IP         | Message       |
+| Initial Information Packet (IIP) | Property      | -      | IIP        | Config Node   |
+| Scheduler               | Scheduler     | Flow Controller | Runtime    | Runtime       |
 
 [^1]: Subnets were also known as "composite components" in classical FBP.
 [^2]: Components were described as "black boxes" in classical FBP.
@@ -80,5 +80,6 @@ This is a cross-reference between FBP implementations.
 [Classical FBP]: https://jpaulm.github.io/fbp/
 [Apache NiFi]: https://nifi.apache.org/docs/nifi-docs/html/user-guide.html#terminology
 [Async-Flow]: https://github.com/artob/async-flow#glossary
+[Flux Theory]: https://github.com/flux-doctrine/flux-theory
 [NoFlo]: https://noflojs.org/documentation/glossary/
 [Node-RED]: https://nodered.org/docs/user-guide/concepts
