@@ -11,8 +11,8 @@ authors:
     alias: artob
     website: https://ar.to
     orcid:  https://orcid.org/0009-0002-0725-4874
-repository-code: https://github.com/artob/awesome-fbp
-url: https://github.com/artob/awesome-fbp
+repository-code: https://github.com/flux-doctrine/awesome-fbp
+url: https://github.com/flux-doctrine/awesome-fbp
 abstract: >-
   Awesome Flow-Based Programming (FBP) is a curated list of resources related to FBP.
 keywords:

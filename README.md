@@ -71,11 +71,11 @@ This is a cross-reference between FBP implementations.
 
 ---
 
-[![Share on X](https://img.shields.io/badge/share%20on-x-03A9F4?logo=x)](https://x.com/intent/post?url=https://github.com/artob/awesome-fbp&text=Awesome%20Flow-Based%20Programming%20%28FBP%29)
-[![Share on Reddit](https://img.shields.io/badge/share%20on-reddit-red?logo=reddit)](https://reddit.com/submit?url=https://github.com/artob/awesome-fbp&title=Awesome%20Flow-Based%20Programming%20%28FBP%29)
-[![Share on Hacker News](https://img.shields.io/badge/share%20on-hn-orange?logo=ycombinator)](https://news.ycombinator.com/submitlink?u=https://github.com/artob/awesome-fbp&t=Awesome%20Flow-Based%20Programming%20%28FBP%29)
-[![Share on Facebook](https://img.shields.io/badge/share%20on-fb-1976D2?logo=facebook)](https://www.facebook.com/sharer/sharer.php?u=https://github.com/artob/awesome-fbp)
-[![Share on LinkedIn](https://img.shields.io/badge/share%20on-linkedin-3949AB?logo=linkedin)](https://www.linkedin.com/sharing/share-offsite/?url=https://github.com/artob/awesome-fbp)
+[![Share on X](https://img.shields.io/badge/share%20on-x-03A9F4?logo=x)](https://x.com/intent/post?url=https://github.com/flux-doctrine/awesome-fbp&text=Awesome%20Flow-Based%20Programming%20%28FBP%29)
+[![Share on Reddit](https://img.shields.io/badge/share%20on-reddit-red?logo=reddit)](https://reddit.com/submit?url=https://github.com/flux-doctrine/awesome-fbp&title=Awesome%20Flow-Based%20Programming%20%28FBP%29)
+[![Share on Hacker News](https://img.shields.io/badge/share%20on-hn-orange?logo=ycombinator)](https://news.ycombinator.com/submitlink?u=https://github.com/flux-doctrine/awesome-fbp&t=Awesome%20Flow-Based%20Programming%20%28FBP%29)
+[![Share on Facebook](https://img.shields.io/badge/share%20on-fb-1976D2?logo=facebook)](https://www.facebook.com/sharer/sharer.php?u=https://github.com/flux-doctrine/awesome-fbp)
+[![Share on LinkedIn](https://img.shields.io/badge/share%20on-linkedin-3949AB?logo=linkedin)](https://www.linkedin.com/sharing/share-offsite/?url=https://github.com/flux-doctrine/awesome-fbp)
 
 [Classical FBP]: https://jpaulm.github.io/fbp/
 [Apache NiFi]: https://nifi.apache.org/docs/nifi-docs/html/user-guide.html#terminology
